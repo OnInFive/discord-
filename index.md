@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# **RULES (ENGLISH ONLY IN ALL CHATS)**
 
-You can use the [editor on GitHub](https://github.com/OnInFive/discord-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### ★ _Nudity, porn, gore, and other obscene material are not allowed in posts or comments_ - No exceptions. No NSFW or malicious content.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ★ If you notice an _mod abusing his/her rights_, please report it to an _admin_ in a private message. Admins have Red names and Moderators have a Purple ones. 
 
-### Markdown
+### ★ Post content in _relevant channels,_ posts unrelated to their channel _will be removed_ if found annoying/excessive.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ★ Don’t spam! this goes for all channels! We welcome the conversation but posting F for 30 messages straight isn’t on agenda here.  
 
-```markdown
-Syntax highlighted code block
+### ★ Do not spam mention ANYBODY. This includes Mentioning a mod/admin for nothing. Only ping mods and admins for important matters, not your silly games. Though if there is actually an issues going on in a channel and a mod is not there Please @Moderator so a mod to handle it.
 
-# Header 1
-## Header 2
-### Header 3
+### ★ NO LINKS IN GENERAL CHAT ROOM. General chat is for General topics.
 
-- Bulleted
-- List
+### ★ No hate speech of any kind. Racist, sexist, homophobic, or otherwise abusive. Comments such as this will result in an immediate ban.
 
-1. Numbered
-2. List
+### ★ _Respect everyone in this discord._ Do not attack new members or any member in that matter. Any harassment towards any members could result in being _kicked or banned._ **NO BULLYING!!**
 
-**Bold** and _Italic_ and `Code` text
+# **ROLES:**
 
-[Link](url) and ![Image](src)
-```
+★ **@Admin**  - (Discord only) Administrators of the server 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+★ **@Moderator**   - (Discord only) Moderators on the server
 
-### Jekyll Themes
+★ **@Here** - People who are active!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OnInFive/discord-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+★ **@Artist** - who creates content for the group
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+★ **@Glorious D’s**# - members of the group 
